@@ -1,14 +1,14 @@
-\# Insertion Sort in R
+# Insertion Sort in R
 
 
 
 !\[Publication Date](https://img.shields.io/badge/published-2019-blue)  
 
-\*(Created before AI coding assistants became widely available)\*
+*(Created before AI coding assistants became widely available)\*
 
 
 
-\## Overview
+## Overview
 
 This repository contains an implementation of the \*\*Insertion Sort\*\* algorithm written in \*\*R\*\*.  
 
@@ -16,7 +16,7 @@ It was created as part of a programming exercise to demonstrate understanding of
 
 
 
-\## Historical Context
+## Historical Context
 
 This project was originally published \*\*before the widespread availability of AI coding assistants\*\*.  
 
@@ -26,7 +26,7 @@ The code reflects my personal programming skills at that point in time, regardle
 
 
 
-\## How It Works
+## How It Works
 
 Insertion Sort is a simple, comparison-based sorting algorithm.  
 
@@ -34,7 +34,7 @@ It works by building a sorted portion of the list one element at a time, inserti
 
 
 
-\*\*Algorithm steps:\*\*
+**Algorithm steps:**
 
 1\. Start from the second element in the list.
 
@@ -48,13 +48,13 @@ It works by building a sorted portion of the list one element at a time, inserti
 
 
 
-\## File Structure
+## File Structure
 
-\- \*\*`insertion-sort.R`\*\* – The R script containing the implementation of the algorithm.
+- \*\*`insertion-sort.R`\*\* – The R script containing the implementation of the algorithm.
 
 
 
-\## Usage
+## Usage
 
 1\. Clone the repository:
 
