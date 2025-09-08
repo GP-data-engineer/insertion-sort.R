@@ -2,7 +2,7 @@
 
 
 
-!\[Publication Date](https://img.shields.io/badge/published-2019-blue)  
+!\[Publication Date 2020 Feb. 20]
 
 *(Created before AI coding assistants became widely available)\*
 
